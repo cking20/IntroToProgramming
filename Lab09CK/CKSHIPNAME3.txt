@@ -1,0 +1,28 @@
+                    Emergency Boat Rescue Squad
+                         Coast Guard Tool
+                              Officer on Duty : Chris
+                              Time: 10:56pm
+                              Date: 11/12/1946
+
+
+
+Ship in Distress:          SS Titanic
+Population:                     569
+Nature of Distress:        ICE ICE BABY
+
+                Ship  X  Y  Speed  Capacity  Distance   Time
+                ----  -  -  -----  --------  --------   ----
+     Little Ship     10 20     22         8      8.94  24.39
+     Speedie          5  5     30         5      7.07  14.14
+     Big Trunk       18  2     12        25     15.62  78.10
+     Medeio Shipo    29 10     19        14     23.09  72.91
+     Dat Ship         3 12     23         8      3.00   7.83
+     Big Trunk II    11 17     12        25      7.07  35.36
+     Little Ship II  12 22     22         8     11.66  31.81
+
+
+
+
+
+Sign Here: __________________________
+                    Chris

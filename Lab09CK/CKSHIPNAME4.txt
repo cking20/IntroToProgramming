@@ -1,0 +1,28 @@
+                    Emergency Boat Rescue Squad
+                         Coast Guard Tool
+                              Officer on Duty : Chris
+                              Time: 8:34am
+                              Date: 10/4/13
+
+
+
+Ship in Distress:        Unsinkable V
+Population:                      53
+Nature of Distress:                Sunk
+
+                Ship  X  Y  Speed  Capacity  Distance   Time
+                ----  -  -  -----  --------  --------   ----
+     Little Ship     10 20     22         8      5.00  13.64
+     Speedie          5  5     30         5     18.03  36.06
+     Big Trunk       18  2     12        25     18.25  91.24
+     Medeio Shipo    29 10     19        14     17.20  54.33
+     Dat Ship         3 12     23         8     14.42  37.62
+     Big Trunk II    11 17     12        25      5.00  25.00
+     Little Ship II  12 22     22         8      3.61   9.83
+
+
+
+
+
+Sign Here: __________________________
+                    Chris

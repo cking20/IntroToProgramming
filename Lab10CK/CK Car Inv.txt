@@ -1,0 +1,30 @@
+Ford Fusion
+Hybrid 22010 2015
+Ford Fiesta
+Gas 13965 2014
+Ford Focus
+Electric 16810 2014
+Ford Edge
+Diesel 28100 2012
+Ford Super Duty
+Diesel 31235 2010
+Ford F150
+Gas 36899 2015
+Ford Shelby GT
+Gas 45199 2010
+Ford Mustang
+Gas 51200 2012
+Ford C-Max
+Hybrid 46100 1992
+Ferrari 458
+Gas 100245 2010
+Ferrari Italia
+Gas 754900 2013
+Ferrari Cali
+Gas 569899
+Chevy Crap Car
+Gas 700 1989
+Bad Car
+Gas 999 1997
+Super Car
+Electric 57989 2001

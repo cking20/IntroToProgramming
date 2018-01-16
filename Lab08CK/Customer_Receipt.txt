@@ -1,0 +1,47 @@
+        Interruptive House Cleaning Hotel
+               Customer Receipt
+
+                              Chris King
+                         25036 Co Rt 189
+                              3152322350
+                        Rodman, NY 13682
+
+     Room Number:                    231
+
+     Nights Stayed:                    3
+
+     Pet Preference:                   N
+
+     Foods            35.99
+
+     Missing_TV     1299.99      
+
+     Towels           15.99
+
+     Total Charges:              1351.97
+
+     Sub Total:                  1519.82
+
+     Sales Tax Rate:             0.0795%
+
+     Sales Tax Amt:             120.8257
+
+     Total:                      1640.65
+
+     ----------------------------------
+
+     Credit Type :                  VISA
+
+     Card Number :             123456789
+
+     Expiration Date:               10/15
+
+     Amount Charged to 123456789: 1640.65
+
+
+
+          ____________________________
+
+               (Signature)    
+
+               Chris King     

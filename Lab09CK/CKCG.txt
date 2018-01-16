@@ -1,0 +1,14 @@
+Little Ship
+10 20 22 8
+Speedie
+5 5 30 5
+Big Trunk
+18 2 12 25
+Medeio Shipo
+29 10 19 14
+Dat Ship
+3 12 23 8
+Big Trunk II
+11 17 12 25
+Little Ship II
+12 22 22 8

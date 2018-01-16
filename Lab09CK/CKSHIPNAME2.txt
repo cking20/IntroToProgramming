@@ -1,0 +1,28 @@
+                    Emergency Boat Rescue Squad
+                         Coast Guard Tool
+                              Officer on Duty : Chris
+                              Time: 10:39am
+                              Date: 1/1/14
+
+
+
+Ship in Distress:        SS Goin Down
+Population:                      10
+Nature of Distress:          Water leak
+
+                Ship  X  Y  Speed  Capacity  Distance   Time
+                ----  -  -  -----  --------  --------   ----
+     Little Ship     10 20     22         8      7.00  19.09
+     Speedie          5  5     30         5     22.56  45.12
+     Big Trunk       18  2     12        25     26.25 131.24
+     Medeio Shipo    29 10     19        14     25.50  80.51
+     Dat Ship         3 12     23         8     16.55  43.18
+     Big Trunk II    11 17     12        25     10.05  50.25
+     Little Ship II  12 22     22         8      5.39  14.69
+
+
+
+
+
+Sign Here: __________________________
+                    Chris

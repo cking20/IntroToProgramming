@@ -1,0 +1,20 @@
+   King's Automotive Emporium  
+Consumer Search Report
+                                   Chris
+                       25046 Co. Rt. 189
+                        Rodman, Ny 13676
+                              3152322350
+      
+Buyer Preferences 
+Upper Year Range :       2015
+Lower Year Range :       2000
+Upper Price Range:     100000
+Lower Price Range:      10000
+Car Fuel Type    :        Gas
+Year                 Name     Class     Price
+2014          Ford Fiesta       Gas     13965
+2014          Ford Fiesta       Gas     13965
+2015            Ford F150       Gas     36899
+2015            Ford F150       Gas     36899
+2012         Ford Mustang       Gas     51200
+2012         Ford Mustang       Gas     51200

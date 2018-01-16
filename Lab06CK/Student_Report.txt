@@ -1,0 +1,16 @@
+          SUNY JEFFERSON
+             Fall 2014
+J Number  :                  12
+Student   :                   C
+Major     :                  CS
+
+Course    Course               Credit    Letter
+    ID      Name                 Hour     Grade
+  123O                 WOW         4        A        
+    NO                NONO         3        B        
+   YES              YESYEY         2        A        
+
+              
+GPI: 3.7
+    
+Semester Fees: 1603.00
